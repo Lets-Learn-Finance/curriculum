@@ -1,4 +1,4 @@
-#Assets vs. Liabilities
+# Assets vs. Liabilities
 
 Assets are anything owned by a person, group, or organisation that has value. An asset can be cash, it could be investments, or it could be non-traditional stores 
 of value, such as valuable sneakers, collectible cards, or even a college degree.
@@ -15,7 +15,7 @@ a−d=Na - d = Na−d=N
 Net worth is important because it provides a quantitative assessment of your finances, and compares the money you owe to the money you have in total. As a single 
 statistic, it provides a general overview of a person or organisation's financial condition, and the health of their finances.
 
-#Benefit of non-liquid assets
+# Benefit of non-liquid assets
 
 Non-liquid assets - things you own that aren't cash - are often beneficial because the value of non-liquid assets can go up over time, whereas due to inflation, 
 the value of a dollar will decrease over time.
