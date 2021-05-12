@@ -3,3 +3,6 @@ Our goal is to enable young students to learn about the importance of personal f
 
 ## Who is on the team?
 The current team consists of two members, Cameron Fink and Jonas Kobza.
+
+## Where can I find the content?
+Content can be found on both our GitHub and our website, https://docs.letslearnfinance.org.
